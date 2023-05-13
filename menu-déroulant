@@ -1,1 +1,9 @@
+$nomention
 
+$newSelectMenu[Example;1;3;Choisir une option]
+
+$addSelectMenuOption[Example;Choix n°1;first-option;Description du choix..]
+
+$addSelectMenuOption[Example;Choix n°2;second-option;Description du choix..]
+
+$addSelectMenuOption[Example;Choix n°3;third-option;Description du choix..]
