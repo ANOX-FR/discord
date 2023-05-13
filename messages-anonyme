@@ -1,0 +1,15 @@
+$nomention
+
+$deletecommand
+
+$allowRoleMentions[]
+
+$allowMention
+
+$useChannel[ID DU SALON OU LE MESSAGE EST ENVOYER]
+
+$color[5865f2]
+
+$title[TITRE]
+
+$description[$message]
