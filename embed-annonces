@@ -1,0 +1,9 @@
+$nomention
+$onlyAdmin[<@$authorID> ! Tu ne peux pas utiliser cette commande, contact le créateur du serveur pour en savoir plus.]
+$deletecommand
+$color[5865f2]
+$allowRoleMentions[]
+$allowMention
+$title[Embed]
+$description[$message]
+$addReactions[👍]
